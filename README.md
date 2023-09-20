@@ -2,9 +2,9 @@
 
 # AND101 Project 2 - Kotlin Debug-a-thon
 
-Submitted by: **Your Name Here**
+Submitted by: Gerardo Perez
 
-Time spent: **X** hours spent in total
+Time spent: 1 hours spent in total
 
 ## Summary
 
@@ -37,7 +37,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<a href="https://imgur.com/FsG7sE7"><img src="https://i.imgur.com/FsG7sE7.gif" title="source: imgur.com" /></a>
 
 GIF created with **your chosen GIF tool**
 
